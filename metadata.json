@@ -1,0 +1,6 @@
+{
+  "name": "OmniTour AR - City Landmark Explorer",
+  "description": "Capture city landmarks, identify architectural marvels with Gemini 3.8 Flash, fetch grounded history via Google Search, and watch AR-style narrated clips powered by Gemini 3.8 Flash TTS.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
